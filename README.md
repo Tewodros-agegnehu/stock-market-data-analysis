@@ -127,8 +127,8 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/financial-news-sentiment-analysis.git
-   cd financial-news-sentiment-analysis
+   git clone https://github.com/Tewodros-agegnehu/stock-market-data-analysis.git
+   cd stock-market-data-analysis
    ```  
 
 2. Create a virtual environment and install dependencies:  
